@@ -7,14 +7,12 @@ Me chamo Túlio gabriel, tenho 17 anos, curso para técnico em informática no e
 <p align="left">
    <a href="https://www.linkedin.com/in/tulio-gabriel-284818347/">
 		<img 
-			alt="linkedin" 
 			title="LinkedIn" 
 			src="https://custom-icon-badges.demolab.com/badge/LinkedIn-LinkedIn-353D78?logo=LinkedIn&logoColor=white&style=for-the-badge"
 		/>
 	</a>
 	<a href="https://mail.google.com/mail/">
-		<img 
-			alt="E-mail" 
+		<img  
 			title="E-mail" 
 			src="https://custom-icon-badges.demolab.com/badge/E--mail-E--mail-F54927?logo=Gmail&logoColor=white&style=for-the-badge"
 		/>
