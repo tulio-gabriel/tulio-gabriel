@@ -5,21 +5,26 @@
 Me chamo Túlio gabriel, tenho 17 anos, curso para técnico em informática no ensino médio e me interesso pelo area de desenvolvimento.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/tulio-gabriel-284818347/">
-        <img 
-            alt="linkedin" 
-            title="LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/&label=LinkedIn&logo=LinkedIn&logoColor=white&style=for-the-badge&labelColor=353D78"
-        />
-    </a>
-	 <a href="https://mail.google.com/mail/u/0/?pli=1#inbox?compose=GTvVlcSHwsMpVbxZxmpLwMMMcqnwNBPqMxCTmmbKRpBjVCDsqvTshqjfQdhhhlxSfbkPFGddTMbCS">
-        <img 
-            alt="E-mail" 
-            title="E-mail" 
-            src="https://custom-icon-badges.demolab.com/&label=E-mail&logo=E-mail&logoColor=white&style=for-the-badge&labelColor=353D78"
-        />
-    </a>
-</p>
+	The custom-icon-badges URLs are malformed. They're missing the domain part after `demolab.com/`. The correct format should be:
+
+	```html
+	<a href="https://www.linkedin.com/in/tulio-gabriel-284818347/">
+		<img 
+			alt="linkedin" 
+			title="LinkedIn" 
+			src="https://custom-icon-badges.demolab.com/badge/LinkedIn-LinkedIn-353D78?logo=LinkedIn&logoColor=white&style=for-the-badge"
+		/>
+	</a>
+	<a href="https://mail.google.com/mail/u/0/?pli=1#inbox?compose=GTvVlcSHwsMpVbxZxmpLwMMMcqnwNBPqMxCTmmbKRpBjVCDsqvTshqjfQdhhhlxSfbkPFGddTMbCS">
+		<img 
+			alt="E-mail" 
+			title="E-mail" 
+			src="https://custom-icon-badges.demolab.com/badge/E--mail-E--mail-353D78?logo=Gmail&logoColor=white&style=for-the-badge"
+		/>
+	</a>
+	```
+
+	The badge format is: `/badge/<label>-<message>-<color>?logo=...&logoColor=...&style=...`
 
 ---
 
