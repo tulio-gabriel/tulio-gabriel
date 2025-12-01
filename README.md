@@ -9,14 +9,14 @@ Me chamo Túlio gabriel, tenho 17 anos, curso para técnico em informática no e
         <img 
             alt="linkedin" 
             title="LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=353D78"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=LinkedIn&logo=LinkedIn&logoColor=white&style=for-the-badge&labelColor=353D78"
         />
     </a>
 	 <a href="https://mail.google.com/mail/u/0/?pli=1#inbox?compose=GTvVlcSHwsMpVbxZxmpLwMMMcqnwNBPqMxCTmmbKRpBjVCDsqvTshqjfQdhhhlxSfbkPFGddTMbCS">
         <img 
             alt="E-mail" 
             title="E-mail" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=353D78"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=E-mail&logo=E-mail&logoColor=white&style=for-the-badge&labelColor=353D78"
         />
     </a>
 </p>
@@ -81,14 +81,14 @@ Me chamo Túlio gabriel, tenho 17 anos, curso para técnico em informática no e
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-   	src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-           
+<img
+align="left"
+alt="MySQL"
+title="MySQL"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+
 />
 <img 
     align="left" 
