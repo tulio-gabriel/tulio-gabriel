@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Fullstack`**
 
-Me chamo Túlio gabriel, tenho 17 anos, curso para técnico em informática no ensino médio e me interesso pelo area de desenvolvimento.
+Me chamo Túlio gabriel, tenho 17 anos, curso para técnico em informática no ensino médio e me interesso pelo área de desenvolvimento.
 
 <p align="left">
    <a href="https://www.linkedin.com/in/tulio-gabriel-284818347/">
