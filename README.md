@@ -1,6 +1,6 @@
 # 💻 Túlio Gabriel
 
-**`Desenvolvedor Fullstack`**
+**``**
 
 
 <p align="left">
